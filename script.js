@@ -57,7 +57,7 @@ function draw() {
   text("Happiness", 110, 65);
 }
 
-
+//changing this to new js file
 class Character {
   constructor() {
     this.x = width / 2;
