@@ -1,10 +1,14 @@
-let character;
+
+
+
+let player;
 let happinessTimer = 0;
-let runningImg;
+let walkingPic;
 let jumpingImg;
 let fallingImg;
 let currentAction;
 let hunger;
+
 
 function preload() {
   // load the images in the preload function
