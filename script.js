@@ -4,7 +4,7 @@ let runningImg;
 let jumpingImg;
 let fallingImg;
 let currentAction;
-
+let hunger;
 
 function preload() {
   // load the images in the preload function
